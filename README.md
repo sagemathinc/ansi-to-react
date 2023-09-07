@@ -14,10 +14,10 @@ $ npm install ansi-to-react
 
 The example below shows how we can use this package to render a string with ANSI escape codes.
 
-```javascript
+```jsx
 import Ansi from "ansi-to-react";
 
-export function () => {
+export function MyComponent() => {
   return <Ansi>
     {'\u001b[34mhello world'}
   </Ansi>;
