@@ -5,7 +5,7 @@ This package convert ANSI escape codes to formatted text output for React.
 ## Installation
 
 ```
-$ npm install ansi-to-react
+$ npm install @cocalc/ansi-to-react
 ```
 
 ## Usage
